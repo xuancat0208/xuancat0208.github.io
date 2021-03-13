@@ -1,0 +1,10 @@
+xuan.cat.xuancatapi.api
+xuan.cat.xuancatapi.api.event.packet
+xuan.cat.xuancatapi.api.event.player
+xuan.cat.xuancatapi.api.event.world
+xuan.cat.xuancatapi.api.library
+xuan.cat.xuancatapi.api.nbt
+xuan.cat.xuancatapi.api.nms
+xuan.cat.xuancatapi.api.nms.entity
+xuan.cat.xuancatapi.api.nms.item
+xuan.cat.xuancatapi.api.nms.world
